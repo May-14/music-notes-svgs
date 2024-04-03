@@ -32,13 +32,13 @@ Copyright (c) [2024] [May]
 ...
 
 File:WholeNote.svg, 
-© [User:っ](https://commons.wikimedia.org/wiki/User:っ) / [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) / [CC-BY-SA-3.0]	(https://creativecommons.org/licenses/by-sa/3.0/)
+© [User:っ](https://commons.wikimedia.org/wiki/User:っ) / [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) / [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
 Changes: It was used in conjunction with other svgs. But the file wasn't directly modified.
 
 
 File:Grand staff.svg.
-© [User:DustyComputer](https://commons.wikimedia.org/wiki/User:っ) / [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) / [CC-BY-SA-3.0]	(https://creativecommons.org/licenses/by-sa/3.0/)
+© [User:DustyComputer](https://commons.wikimedia.org/wiki/User:っ) / [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) / [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
 
 Changes: No changes were made.
